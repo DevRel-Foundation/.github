@@ -92,7 +92,7 @@ profiles:
     #
     allowed_voters:
       teams: [steering-committee]
-      users: []
+      users: [anajsana,CLewko,Cruzn65,jcleblanc,katiewaz1977,leggetter,tessak22]
 
     # Periodic status check
     # 
