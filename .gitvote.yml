@@ -92,7 +92,7 @@ profiles:
     #
     allowed_voters:
       teams: [steering-committee]
-      users: [anajsana,CLewko,Cruzn65,jcleblanc,katiewaz1977,leggetter,tessak22]
+      users: [CLewko,Cruzn65,jcleblanc,katiewaz1977,leggetter,tessak22]
 
     # Periodic status check
     # 
@@ -134,7 +134,7 @@ profiles:
     # 
     # close_on_passing: true
     #
-    close_on_passing: false
+    close_on_passing: true
 
   # Additional configuration profiles
   #
