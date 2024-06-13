@@ -15,6 +15,6 @@ Developer Relations is the practice of building and nurturing relationships with
 * [Charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.pdf): Official charter document for the Developer Relations Foundation.
 * [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md): Standards and guidelines for contributing to the Developer Relations Foundation.
 
-## License and Intelectual Property
+## License and Intellectual Property
 
 All documentation is made available by the Developer Relations Foundation under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
