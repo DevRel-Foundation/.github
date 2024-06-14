@@ -6,7 +6,7 @@ The Developer Relations Foundation is part of the nonprofit Linux Foundation.
 
 ## What is Developer Relations?
 
-The Foundation sets for the definition of Developer Relations as follows:
+The Foundation sets forth the definition of Developer Relations as follows:
 
 Developer Relations is the practice of building and nurturing relationships with external and internal teams through community engagement, technical support, education, and advocacy to enable the successful adoption of an organization’s developer products and drive business value.
 
