@@ -18,3 +18,8 @@ Developer Relations is the practice of building and nurturing relationships with
 ## License and Intellectual Property
 
 All documentation is made available by the Developer Relations Foundation under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+## We Want to Hear From You
+
+Feedback from the community is one of the most important drivers of success and growth for Developer Relations and this Foundation. If you
+have any feedback or recommendations on the foundation, documents, or direction, please reach out to us [here](https://bit.ly/3RwwhQ1?r=qr).
