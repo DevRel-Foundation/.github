@@ -1,14 +1,10 @@
+> IMPORTANT NOTICE: The DevRel Foundation is in the process of being formed. We welcome anyone interested in joining the community, contributing to the drafting of an open manifesto, and working together to define the concerns and strategic goals of the professional practice of developer relations
+
 # The Developer Relations Foundation
 
-The Developer Relations Foundation is an open community of practitioners who aim to elevate the professional practice of developer relations and increase awareness of it as a driver of business value. For more information, please read the foundation [charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.pdf).
+The Developer Relations Foundation is an open community of practitioners who aim to elevate the professional practice of developer relations. For more information, please read the foundation [charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.pdf).
 
 The Developer Relations Foundation is part of the nonprofit Linux Foundation.
-
-## What is Developer Relations?
-
-The Foundation sets forth the definition of Developer Relations as follows:
-
-> Developer Relations is the practice of building and nurturing relationships with external and internal teams through community engagement, technical support, education, and advocacy to enable the successful adoption of an organization’s developer products and drive business value.
 
 ## Resources
 
@@ -21,5 +17,4 @@ All documentation is made available by the Developer Relations Foundation under 
 
 ## We Want to Hear From You
 
-Feedback from the community is one of the most important drivers of success and growth for Developer Relations and this Foundation. If you
-have any feedback or recommendations on the foundation, documents, or direction, please reach out to us [here](https://bit.ly/3RwwhQ1?r=qr).
+If you have any feedback or recommendations on the foundation, documents, or direction, please reach out to us [here](https://bit.ly/3RwwhQ1?r=qr).
