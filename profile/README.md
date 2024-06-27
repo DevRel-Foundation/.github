@@ -17,4 +17,6 @@ All documentation is made available by the Developer Relations Foundation under 
 
 ## We Want to Hear From You
 
+We have a Discord channel where the community can ask questions, join regular calls focused on building this initiative together, and learn more about ways to get involved and contribute. You can [join here](https://discord.gg/8Ga5A6GX).
+
 If you have any feedback or recommendations on the foundation, documents, or direction, please reach out to us [here](https://bit.ly/3RwwhQ1?r=qr).
