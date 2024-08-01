@@ -86,12 +86,12 @@ If you have questions that are not answered here, please get in toouch via the [
 We have a Discord channel where the community can ask questions, join regular calls focused on building this initiative together, and learn more about ways to get involved and contribute.
 
 <p align="center">
-  <a href="https://discord.gg/8Ga5A6GX">
+  <a href="https://discord.gg/ukMnmFjw43">
     <img src="images/discord.svg" width="100" alt="Join the Developer Relations Foundation Discord" />
   <a>
 </p>
 <p align="center">
-  Join the <a href="https://discord.gg/8Ga5A6GX">Developer Relations Foundation Discord Server</a>.
+  Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>.
 </p>
 
 If you have any feedback or recommendations on the foundation, documents, or direction and would prefer to contact us in another way, please use the [contact form][contact-form].
@@ -101,5 +101,5 @@ If you have any feedback or recommendations on the foundation, documents, or dir
 All documentation is made available by the Developer Relations Foundation under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc
-[discord]: https://discord.gg/8Ga5A6GX
+[discord]: https://discord.gg/ukMnmFjw43
 [contact-form]: https://bit.ly/3RwwhQ1
