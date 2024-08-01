@@ -57,9 +57,13 @@ If you have questions that are not answered here, please get in toouch via the [
   To date we have accomplished the following:
 
   - Formed an initial, no-official interim steering committee of tenured DevRel professionals with the shared goal of solving critical DevRel problems through the formation of a Foundation
+
   - Secured support from the Linux Foundation to have the DevRel Foundation hosted by them
+
   - Drafted a lightweight charter and took a first pass at organizational structure to provide the broader DevRel community with a starting point from which to work
+
   - Identified tools and lightweight processes get work done: Discord, GitHub, gitvote, and groups.io
+  
   - Scheduled and facilitated open bi-weekly sessions to listen and learn (alternating APAC/EMEA and AMER)
 </details>
 
