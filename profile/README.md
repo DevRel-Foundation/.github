@@ -87,6 +87,8 @@ If you have questions that are not answered here, please get in toouch via the [
 
 ## Get involved
 
+### Real Time Chat
+
 We have a Discord channel where the community can ask questions, join regular calls focused on building this initiative together, and learn more about ways to get involved and contribute.
 
 <p align="center">
@@ -98,17 +100,20 @@ We have a Discord channel where the community can ask questions, join regular ca
   Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>.
 </p>
 
+### Mailing List
 Additionally, we have a groups.io mailing list, where the community can post announcements, news, and notifications
 
 
 <p align="center">
   <a href="https://lists.dev-rel.org/g/community">
-    <img src="images/groupsio.png" width="100" alt="Join the Developer Relations Foundation Community Mailing List" />
+    <img src="images/groupsio.png" width="300" alt="Join the Developer Relations Foundation Community Mailing List" />
   <a>
 </p>
 <p align="center">
   Join the <a href="https://lists.dev-rel.org/g/community">Developer Relations Foundation Community Mailing List</a>.
 </p>
+
+### Open Forum
 
 Developer Relation Foundation also has an official forum under this GitHub Org Repo via GH Discussions. People can read existing issues or create new topics [here](https://github.com/DevRel-Foundation/governance/discussions)
 
