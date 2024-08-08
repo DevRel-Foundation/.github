@@ -97,7 +97,7 @@ If you have questions that are not answered here, please get in toouch via the [
 
 ## Get involved
 
-### Real Time Chat
+### Discord
 
 We have a Discord channel where the community can ask questions, join regular calls focused on building this initiative together, and learn more about ways to get involved and contribute.
 
@@ -107,11 +107,18 @@ We have a Discord channel where the community can ask questions, join regular ca
   <a>
 </p>
 <p align="center">
-  Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>.
+  Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>
 </p>
 
+### Community Calls
+
+We host community calls every other week. More information is available via Discord:
+
+- [AMER Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1260162136035033128)
+- [APAC & EMEA Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1267559792029991084)
+
 ### Mailing List
-Additionally, we have a groups.io mailing list, where the community can post announcements, news, and notifications
+Additionally, we have a groups.io mailing list where the community can post announcements, news, and notifications
 
 
 <p align="center">
@@ -120,10 +127,10 @@ Additionally, we have a groups.io mailing list, where the community can post ann
   <a>
 </p>
 <p align="center">
-  Join the <a href="https://lists.dev-rel.org/g/community">Developer Relations Foundation Community Mailing List</a>.
+  Join the <a href="https://lists.dev-rel.org/g/community">Developer Relations Foundation Community Mailing List</a>
 </p>
 
-### Open Forum
+### GitHub Discussions
 
 Developer Relation Foundation also has an official forum under this GitHub Org Repo via GH Discussions. People can read existing issues or create new topics [here](https://github.com/DevRel-Foundation/governance/discussions)
 
