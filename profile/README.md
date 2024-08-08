@@ -11,7 +11,9 @@ The Developer Relations Foundation is part of the nonprofit Linux Foundation.
 If you have questions that are not answered here, please get in toouch via the [Developer Relations Foundation Discord][discord] or the [contact form][contact-form].
 
 <details>
-  <summary>Why a Foundation?</summary>
+  <summary>
+    <h3 style="display:inline">Why a Foundation?</h3>
+  </summary>
 
   The major benefit of a foundation is that it promotes participatory governance, preventing any single company from monopolizing a collaborative project. Specifically, a foundation ensures:
 
@@ -25,7 +27,9 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>Why Linux Foundation?</summary>
+  <summary>
+    <h3 style="display:inline;">Why Linux Foundation?</h3>
+  </summary>
 
   The major benefit of hosting with the Linux Foundation (LF) is that it offers recognized global credibility. Specifically, the LF ensures:
 
@@ -43,7 +47,9 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>Who is the current Steering Committee?</summary>
+  <summary>
+    <h3 style="display:inline;">Who is the current Steering Committee?</h3>
+  </summary>
   
   This first, non-official Interim SC, composed of tenured Developer Relations professionals, has initiated this “intent to form foundation” built through the LF’s guidance and principles. Once the charter and mission are in place, a new Leadership council will be established. This process will be via elections at a future date to be determined.
 
@@ -53,7 +59,9 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>What have you accomplished to date?</summary>
+  <summary>
+    <h3 style="display:inline;">What have you accomplished to date?</h3>
+  </summary>
   To date we have accomplished the following:
 
   - Formed an initial, no-official interim steering committee of tenured DevRel professionals with the shared goal of solving critical DevRel problems through the formation of a Foundation
@@ -68,7 +76,9 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>How do you relate to other existing initiatives?</summary>
+  <summary>
+    <h3 style="display:inline;">How do you relate to other existing initiatives?</h3>
+  </summary>
 
   **This is still _a WIP answer_ and needs further discussion in the community calls and async**
 
