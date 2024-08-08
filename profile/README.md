@@ -12,7 +12,9 @@ If you have questions that are not answered here, please get in toouch via the [
 
 <details>
   <summary>
-    <h3 style="display:inline">Why a Foundation?</h3>
+  
+  **Why a Foundation?**
+  
   </summary>
 
   The major benefit of a foundation is that it promotes participatory governance, preventing any single company from monopolizing a collaborative project. Specifically, a foundation ensures:
@@ -28,7 +30,9 @@ If you have questions that are not answered here, please get in toouch via the [
 
 <details>
   <summary>
-    <h3 style="display:inline;">Why Linux Foundation?</h3>
+  
+  **Why Linux Foundation?**
+  
   </summary>
 
   The major benefit of hosting with the Linux Foundation (LF) is that it offers recognized global credibility. Specifically, the LF ensures:
@@ -48,7 +52,9 @@ If you have questions that are not answered here, please get in toouch via the [
 
 <details>
   <summary>
-    <h3 style="display:inline;">Who is the current Steering Committee?</h3>
+  
+  **Who is the current Steering Committee?**
+  
   </summary>
   
   This first, non-official Interim SC, composed of tenured Developer Relations professionals, has initiated this “intent to form foundation” built through the LF’s guidance and principles. Once the charter and mission are in place, a new Leadership council will be established. This process will be via elections at a future date to be determined.
@@ -60,7 +66,9 @@ If you have questions that are not answered here, please get in toouch via the [
 
 <details>
   <summary>
-    <h3 style="display:inline;">What have you accomplished to date?</h3>
+  
+  **What have you accomplished to date?**
+  
   </summary>
   To date we have accomplished the following:
 
@@ -77,7 +85,9 @@ If you have questions that are not answered here, please get in toouch via the [
 
 <details>
   <summary>
-    <h3 style="display:inline;">How do you relate to other existing initiatives?</h3>
+  
+  **How do you relate to other existing initiatives?**
+  
   </summary>
 
   **This is still _a WIP answer_ and needs further discussion in the community calls and async**
