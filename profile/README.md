@@ -11,7 +11,9 @@ The Developer Relations Foundation is part of the nonprofit Linux Foundation.
 If you have questions that are not answered here, please get in toouch via the [Developer Relations Foundation Discord][discord] or the [contact form][contact-form].
 
 <details>
-  <summary>Why a Foundation?</summary>
+  <summary>
+    <strong>Why a Foundation?</strong>
+  </summary><br />
 
   The major benefit of a foundation is that it promotes participatory governance, preventing any single company from monopolizing a collaborative project. Specifically, a foundation ensures:
 
@@ -25,7 +27,9 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>Why Linux Foundation?</summary>
+  <summary>
+    <strong>Why Linux Foundation?</strong>
+  </summary><br />
 
   The major benefit of hosting with the Linux Foundation (LF) is that it offers recognized global credibility. Specifically, the LF ensures:
 
@@ -43,7 +47,9 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>Who is the current Steering Committee?</summary>
+  <summary>
+    <strong>Who is the current Steering Committee?</strong>
+  </summary><br />
   
   This first, non-official Interim SC, composed of tenured Developer Relations professionals, has initiated this “intent to form foundation” built through the LF’s guidance and principles. Once the charter and mission are in place, a new Leadership council will be established. This process will be via elections at a future date to be determined.
 
@@ -53,7 +59,10 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>What have you accomplished to date?</summary>
+  <summary>
+    <strong>What have you accomplished to date?</strong>
+  </summary><br />
+
   To date we have accomplished the following:
 
   - Formed an initial, no-official interim steering committee of tenured DevRel professionals with the shared goal of solving critical DevRel problems through the formation of a Foundation
@@ -68,7 +77,9 @@ If you have questions that are not answered here, please get in toouch via the [
 </details>
 
 <details>
-  <summary>How do you relate to other existing initiatives?</summary>
+  <summary>
+    <strong>How do you relate to other existing initiatives?</strong>
+  </summary><br />
 
   **This is still _a WIP answer_ and needs further discussion in the community calls and async**
 
@@ -87,6 +98,8 @@ If you have questions that are not answered here, please get in toouch via the [
 
 ## Get involved
 
+### Discord
+
 We have a Discord channel where the community can ask questions, join regular calls focused on building this initiative together, and learn more about ways to get involved and contribute.
 
 <p align="center">
@@ -95,8 +108,32 @@ We have a Discord channel where the community can ask questions, join regular ca
   <a>
 </p>
 <p align="center">
-  Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>.
+  Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>
 </p>
+
+### Community Calls
+
+We host community calls every other week. More information is available via Discord:
+
+- [AMER Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1260162136035033128)
+- [APAC & EMEA Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1267559792029991084)
+
+### Mailing List
+Additionally, we have a groups.io mailing list where the community can post announcements, news, and notifications
+
+
+<p align="center">
+  <a href="https://lists.dev-rel.org/g/community">
+    <img src="images/groupsio.png" width="300" alt="Join the Developer Relations Foundation Community Mailing List" />
+  <a>
+</p>
+<p align="center">
+  Join the <a href="https://lists.dev-rel.org/g/community">Developer Relations Foundation Community Mailing List</a>
+</p>
+
+### GitHub Discussions
+
+Developer Relation Foundation also has an official forum under this GitHub Org Repo via GH Discussions. People can read existing issues or create new topics [here](https://github.com/DevRel-Foundation/governance/discussions)
 
 If you have any feedback or recommendations on the foundation, documents, or direction and would prefer to contact us in another way, please use the [contact form][contact-form].
 
