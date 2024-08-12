@@ -8,7 +8,7 @@ The Developer Relations Foundation is part of the nonprofit Linux Foundation.
 
 ## FAQ
 
-If you have questions that are not answered here, please get in toouch via the [Developer Relations Foundation Discord][discord] or the [contact form][contact-form].
+If you have questions that are not answered here, please get in touch via the [Developer Relations Foundation Discord][discord] or the [contact form][contact-form].
 
 <details>
   <summary>
