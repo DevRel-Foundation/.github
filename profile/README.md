@@ -48,12 +48,19 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
+    <strong>What is a Steering Committee?</strong>
+  </summary><br />
+  The Steering Committee ensures that the project stays on track of its mission and aligns with the strategic goals defined by the community and working group chairs.  
+  In the DevRel Foundation, there is currently a temporary group of volunteers (the Volunteer Steering Committee) who have helped build the initial lightweight processes needed to organize and coordinate the community-driven initiatives.
+  
+</details>
+<details>
+  <summary>
     <strong>Who is the current Steering Committee?</strong>
   </summary><br />
-  
-  This first, non-official Interim SC, composed of tenured Developer Relations professionals, has initiated this “intent to form foundation” built through the LF’s guidance and principles. Once the charter and mission are in place, a new Leadership council will be established. This process will be via elections at a future date to be determined.
+  There is currently a temporary Volunteer Steering Committee. We, the volunteer Steering Committe participants, are composed of tenured Developer Relations professionals, who initiated this “intent to form foundation” built through the LF’s guidance and principles. Once the   charter and mission are in place, a new leadership will be    established. This process will be via elections at a future date to be determined.
 
-  While our profession is relatively small, it is big enough that there are many really good people who can do this work. And we hope they want to! We had the initiative and time to do this, and so we feel it’s reasonable for us, just like anyone else, to take the first steps forward on building something
+  While our profession is relatively small, it is big enough that there are many really good people who can do this work. And we hope they want to! We had the initiative and time to do this, and so we feel it’s reasonable for us, just like anyone else, to take the first steps       forward on building something
 
   Our aim has always been to thread the needle on process and progress - we wanted to get enough done that we, as a professional collective, had a base and some scaffolding from which to build, but not too much progress that folks felt we had prematurely made decisions.
 </details>
