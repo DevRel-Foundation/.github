@@ -50,15 +50,20 @@ If you have questions that are not answered here, please get in touch via the [D
   <summary>
     <strong>What is a Steering Committee?</strong>
   </summary><br />
-  The Steering Committee ensures that the project stays on track of its mission and aligns with the strategic goals defined by the community and working group chairs.  
-  In the DevRel Foundation, there is currently a temporary group of volunteers (the Volunteer Steering Committee) who have helped build the initial lightweight processes needed to organize and coordinate the community-driven initiatives.
-  
+
+   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version)](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc). Currently, a temporary group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be fully defined, aim to shape the day-to-day work within the Developer Relations Foundation. Leadership roles inside these initiatives will be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives will be grouped and formed, are yet to be defined by the community.
+</details>
+<details>
+     <summary>
+    <strong>What is a Charter?</strong>
+  </summary><br />
+  The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation Charter is a living document, allowing the community to propose changes and updates as the project evolves.
 </details>
 <details>
   <summary>
     <strong>Who is the current Steering Committee?</strong>
   </summary><br />
-  There is currently a temporary Volunteer Steering Committee. We, the volunteer Steering Committee participants, are composed of tenured Developer Relations professionals who initiated this “intent to form foundation” built through the LF’s guidance and principles. A new leadership will be established once the charter and mission are in place. This process will be via elections at a future date to be determined.
+  There is currently a temporary volunteer Steering Committee. We, the volunteer Steering Committee participants, are composed of tenured Developer Relations professionals who initiated this “intent to form foundation” built through the LF’s guidance and principles. A new leadership will be established once the charter and mission are in place. This process will be via elections at a future date to be determined.
 
   While our profession is relatively small, it is big enough that there are many really good people who can do this work. And we hope they want to! We had the initiative and time to do this, and so we feel it’s reasonable for us, just like anyone else, to take the first steps forward on building something
 
