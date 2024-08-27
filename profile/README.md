@@ -63,7 +63,7 @@ If you have questions that are not answered here, please get in touch via the [D
   <summary>
     <strong>Who is the current Steering Committee?</strong>
   </summary><br />
-  There is currently a temporary Steering Committee. We, the Steering Committee participants, are composed of tenured Developer Relations professionals who initiated this “intent to form foundation” built through the LF’s guidance and principles. A new leadership will be established once the charter and mission are in place. This process will be via elections at a future date to be determined.
+ The current Steering Committee participants are composed of tenured Developer Relations professionals who initiated this “intent to form foundation” built through the LF’s guidance and principles. A new leadership will be established once the charter and mission are in place. This process will be via elections at a future date to be determined.
 
   While our profession is relatively small, it is big enough that there are many really good people who can do this work. And we hope they want to! We had the initiative and time to do this, and so we feel it’s reasonable for us, just like anyone else, to take the first steps forward on building something
 
