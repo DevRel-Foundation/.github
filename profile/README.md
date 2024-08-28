@@ -31,7 +31,9 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>Why Linux Foundation?</strong>
   </summary><br />
 
-  The major benefit of hosting with the Linux Foundation (LF) is that it offers recognized global credibility. Specifically, the LF ensures:
+  This collaborative project has been hosted as a [community project](https://www.linuxfoundation.org/projects/hosting), with no funding involved. This means taking advantage of the governance structure, project management staff, and back-end resources that the Linux Foundation (LF) provides to all hosted projects under an unfunded model, to ensure long-term sustainability. Developer Relations Foundation is part of the LF project series, as a [non-profit 501(c)(6)](https://donorbox.org/nonprofit-blog/501c3-vs-501c6). Examples of these projects include [SPDX](https://spdx.dev/) (SBOM Standard), FOSSology, or [CHAOSS](https://chaoss.community/governance/).
+
+  The major benefit of hosting with the LF is that it offers recognized global credibility. Specifically, the LF ensures:
 
   - **DevRel value outside DevRel**: Being part of a renowned and large open source foundation like the Linux Foundation enhances the project's credibility within the DevRel community and among external stakeholders and decision-makers. This recognition elevates DevRel's visibility and perceived value as a profession, demonstrating its importance and impact beyond industry peers.
 
@@ -39,19 +41,29 @@ If you have questions that are not answered here, please get in touch via the [D
 
   - **Licensing Integrity**: Protecting the licensing integrity of the collaborative project, as detailed in this [LF blog post](https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects).
 
-  The Linux Foundation allows individual contributors to retain copyright ownership of their contributions while providing an open source license, reflected through the Developer Certificate of Origin sign-off process.
-
-  This collaborative project has been hosted as a [community project](https://www.linuxfoundation.org/projects/hosting), with no funding involved. This means taking advantage of the governance structure, project management staff, and back-end resources that the LF provides to all hosted projects, to ensure long-term sustainability. Examples of these projects include [SPDX()] (SBOM Standard), FOSSology, or CHAOSS.
+  The LF allows individual contributors to retain copyright ownership of their contributions while providing an open source license, reflected through the Developer Certificate of Origin sign-off process.
   
   We also chose the LF to avoid reinventing the wheel. Creating something new requires tools, infrastructure, and, ideally, a lightweight process to get started and make the initiative resilient.
 </details>
 
 <details>
   <summary>
+    <strong>What is a Steering Committee?</strong>
+  </summary><br />
+
+   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version)](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc). Currently, a temporary group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be fully defined, aim to shape the day-to-day work within the Developer Relations Foundation. Leadership roles inside these initiatives will be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives will be grouped and formed, are yet to be defined by the community.
+</details>
+<details>
+     <summary>
+    <strong>What is a Charter?</strong>
+  </summary><br />
+  The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation Charter is a living document, allowing the community to propose changes and updates as the project evolves.
+</details>
+<details>
+  <summary>
     <strong>Who is the current Steering Committee?</strong>
   </summary><br />
-  
-  This first, non-official Interim SC, composed of tenured Developer Relations professionals, has initiated this “intent to form foundation” built through the LF’s guidance and principles. Once the charter and mission are in place, a new Leadership council will be established. This process will be via elections at a future date to be determined.
+ The current Steering Committee participants are composed of tenured Developer Relations professionals who initiated this “intent to form foundation” built through the LF’s guidance and principles. A new leadership will be established once the charter and mission are in place. This process will be via elections at a future date to be determined.
 
   While our profession is relatively small, it is big enough that there are many really good people who can do this work. And we hope they want to! We had the initiative and time to do this, and so we feel it’s reasonable for us, just like anyone else, to take the first steps forward on building something
 
