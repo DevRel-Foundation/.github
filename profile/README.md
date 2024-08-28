@@ -1,4 +1,4 @@
-> IMPORTANT NOTICE: The DevRel Foundation is in the process of being formed. We welcome anyone interested in joining the community, contributing to the drafting of an open manifesto, and working together to define the concerns and strategic goals of the professional practice of developer relations
+> IMPORTANT NOTICE: The DevRel Foundation is in the process of being formed. We welcome anyone interested in joining the community and working together to define the challenges, strategic goals and next steps of the professional practice of developer relations
 
 # The Developer Relations Foundation
 
@@ -31,7 +31,7 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>Why Linux Foundation?</strong>
   </summary><br />
 
-  This collaborative project has been hosted as a [community project](https://www.linuxfoundation.org/projects/hosting), with no funding involved. This means taking advantage of the governance structure, project management staff, and back-end resources that the Linux Foundation (LF) provides to all hosted projects under an unfunded model, to ensure long-term sustainability. Developer Relations Foundation is part of the LF project series, as a [non-profit 501(c)(6)](https://donorbox.org/nonprofit-blog/501c3-vs-501c6). Examples of these projects include [SPDX](https://spdx.dev/) (SBOM Standard), FOSSology, or [CHAOSS](https://chaoss.community/governance/).
+  This collaborative project has been hosted as a [community project][community project], with no funding involved. This means taking advantage of the governance structure, project management staff, and back-end resources that the Linux Foundation (LF) provides to all hosted projects under an unfunded model, to ensure long-term sustainability. Developer Relations Foundation is part of the LF project series, as a [non-profit 501(c)(6)](https://donorbox.org/nonprofit-blog/501c3-vs-501c6). Examples of these projects include [SPDX](https://spdx.dev/) (SBOM Standard), FOSSology, and [CHAOSS](https://chaoss.community/governance/).
 
   The major benefit of hosting with the LF is that it offers recognized global credibility. Specifically, the LF ensures:
 
@@ -39,7 +39,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
   - **Level Playing Field**: Ensuring that no single company in the ecosystem can exert undue control over the project by owning the trademark.
 
-  - **Licensing Integrity**: Protecting the licensing integrity of the collaborative project, as detailed in this [LF blog post](https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects).
+  - **Licensing Integrity**: Protecting the licensing integrity of the collaborative project, as detailed in this [LF blog post][LF blog post].
 
   The LF allows individual contributors to retain copyright ownership of their contributions while providing an open source license, reflected through the Developer Certificate of Origin sign-off process.
   
@@ -51,7 +51,7 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>What is a Steering Committee?</strong>
   </summary><br />
 
-   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version)](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc). Currently, a group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be fully defined, aim to shape the day-to-day work within the Developer Relations Foundation. Leadership roles inside these initiatives will be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives will be grouped and formed, are yet to be defined by the community.
+   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version)][charter]. Currently, a group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be fully defined, aim to shape the day-to-day work within the Developer Relations Foundation. Leadership roles inside these initiatives will be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives will be grouped and formed, are yet to be defined by the community.
 </details>
 <details>
      <summary>
@@ -77,7 +77,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
   To date we have accomplished the following:
 
-  - Formed an initial, no-official interim steering committee of tenured DevRel professionals with the shared goal of solving critical DevRel problems through the formation of a Foundation
+  - Formed an initial Steering Committee of tenured DevRel professionals with the shared goal of solving critical DevRel problems through the formation of a Foundation
 
   - Secured support from the Linux Foundation to have the DevRel Foundation hosted by them
 
@@ -95,7 +95,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
   **This is still _a WIP answer_ and needs further discussion in the community calls and async**
 
-  As we explored how best to address the persistent challenges faced by the practice of DevRel, the first thing we did as an interim steering committee was a survey of the existing communities and organizations, including the Developer Marketing Alliance, DevRelX, marketingto.dev, Devrellers and Developer Evangelists (LinkedIn groups), the DevRel Collective, developerrelations.com, flyless.dev, and DevRel con Ň.
+  As we explored how best to address the persistent challenges faced by the practice of DevRel, the first thing we did as an interim steering committee was a survey of the existing communities and organizations, including the Developer Marketing Alliance, DevRelX, marketingto.dev, Devrellers and Developer Evangelists (LinkedIn groups), the DevRel Collective, DevRelCon, developerrelations.com, flyless.dev, and DevRel con Ñ.
 
   We found that these groups in aggregate, provide exceptional breadth and depth of resources, expertise, and community. However, whether through incentives (ex: revenue-focused) or inclusivity (ex: DevMarketing not included) none felt centralizing enough to be the hub for this initiative, which strives to be open and inclusive, as well as more than just a resource repository.
 
@@ -106,7 +106,7 @@ If you have questions that are not answered here, please get in touch via the [D
 ## Resources
 
 * [Charter][charter]: Official charter document for the Developer Relations Foundation.
-* [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md): Standards and guidelines for contributing to the Developer Relations Foundation.
+* [Code of Conduct][Code of Conduct]: Standards and guidelines for contributing to the Developer Relations Foundation.
 
 ## Get involved
 
@@ -156,3 +156,6 @@ All documentation is made available by the Developer Relations Foundation under 
 [charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc
 [discord]: https://discord.gg/ukMnmFjw43
 [contact-form]: https://bit.ly/3RwwhQ1
+[LF blog post]: https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects
+[community project]: https://www.linuxfoundation.org/projects/hosting
+[Code of Conduct]: https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md
