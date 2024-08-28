@@ -51,7 +51,7 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>What is a Steering Committee?</strong>
   </summary><br />
 
-   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version)](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc). Currently, a temporary group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be fully defined, aim to shape the day-to-day work within the Developer Relations Foundation. Leadership roles inside these initiatives will be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives will be grouped and formed, are yet to be defined by the community.
+   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version)](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc). Currently, a group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be fully defined, aim to shape the day-to-day work within the Developer Relations Foundation. Leadership roles inside these initiatives will be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives will be grouped and formed, are yet to be defined by the community.
 </details>
 <details>
      <summary>
