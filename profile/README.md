@@ -48,6 +48,16 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
+    <strong>Are Sponsors Involved?</strong>
+  </summary><br />
+
+ No, there are no sponsors.
+ 
+ A sponsor organization provides financial support or funding to the initiative. **This collaborative project operates under a non-funded model which means there are no sponsor organizations involved**. Instead, the project is supported by community individuals and supporter organizations, contributing to its success through content, guidance, and expertise. Unlike sponsors, supporters do not make financial commitments.
+ 
+</details>
+<details>
+  <summary>
     <strong>What is a Steering Committee?</strong>
   </summary><br />
 
