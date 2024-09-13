@@ -8,7 +8,7 @@ The Developer Relations Foundation is part of the nonprofit Linux Foundation.
 
 ## FAQ
 
-If you have questions that are not answered here, please get in touch via the [Developer Relations Foundation Discord][discord] or the [contact form][contact-form].
+If you have questions that are not answered here, please get in touch via the [Developer Relations Foundation Discord][discord].
 
 <details>
   <summary>
@@ -157,7 +157,9 @@ Additionally, we have a groups.io mailing list where the community can post anno
 
 Developer Relation Foundation also has an official forum under this GitHub Org Repo via GH Discussions. People can read existing issues or create new topics [here](https://github.com/DevRel-Foundation/governance/discussions)
 
-If you have any feedback or recommendations on the foundation, documents, or direction and would prefer to contact us in another way, please use the [contact form][contact-form].
+## Make Your Voice Heard
+
+To date, the priority has been to reach and collect representative data from participants in DevRel communities worldwide, ensuring that future decisions are data-driven and reflective of the community’s needs. To make an impact on the formation of this Foundation and join this community, please start by taking this [survey][survey]. You are welcome to share it with your local community peers.
 
 ## License and Intellectual Property
 
@@ -169,3 +171,4 @@ All documentation is made available by the Developer Relations Foundation under 
 [LF blog post]: https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects
 [community project]: https://www.linuxfoundation.org/projects/hosting
 [Code of Conduct]: https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md
+[survey]: https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform
