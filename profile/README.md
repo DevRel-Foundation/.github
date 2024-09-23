@@ -105,11 +105,13 @@ If you have questions that are not answered here, please get in touch via the [D
 
   **This is still _a WIP answer_ and needs further discussion in the community calls and async**
 
-  As we explored how best to address the persistent challenges faced by the practice of DevRel, the first thing we did as an interim steering committee was a survey of the existing communities and organizations, including the Developer Marketing Alliance, DevRelX, marketingto.dev, Devrellers and Developer Evangelists (LinkedIn groups), the DevRel Collective, DevRelCon, developerrelations.com, flyless.dev, and DevRel con Ñ.
+  As we explored how best to address the persistent challenges faced by the practice of DevRel, the first thing we did as an interim steering committee was a survey of the existing communities and organizations, including the Developer Marketing Alliance, DevRelX(*), marketingto.dev, Devrellers and Developer Evangelists (LinkedIn groups), the DevRel Collective, DevRelCon, developerrelations.com, flyless.dev, and DevRel con Ñ.
 
   We found that these groups in aggregate, provide exceptional breadth and depth of resources, expertise, and community. However, whether through incentives (ex: revenue-focused) or inclusivity (ex: DevMarketing not included) none felt centralizing enough to be the hub for this initiative, which strives to be open and inclusive, as well as more than just a resource repository.
 
   We also know that we cannot succeed without the support, involvement, and partnership of the ecosystem of DevRel initiatives, which is why we hope that folks will feel inspired to help build a foundation that codifies the definition and best practices of DevRel; that brings together best-in-class frameworks, training, and resources in a single place; and that attracts individuals and organizations through trust, credibility, and collaboration.
+  
+  > (*) The DevRelX Community sunset on October 11, but the free resources they shared with the industry remain available. A massive thank you to their community members.
 </details>
 
 
