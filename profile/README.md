@@ -115,6 +115,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 ## Resources
 
+* [dev-rel.org](https://dev-rel.org): Official website for the Developer Relations Foundation.
 * [Charter][charter]: Official charter document for the Developer Relations Foundation.
 * [Code of Conduct][Code of Conduct]: Standards and guidelines for contributing to the Developer Relations Foundation.
 
