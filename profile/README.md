@@ -1,4 +1,5 @@
-> IMPORTANT NOTICE: The DevRel Foundation is in the process of being formed. We welcome anyone interested in joining the community and working together to define the challenges, strategic goals and next steps of the professional practice of developer relations
+> [!NOTE]
+> The DevRel Foundation is in the process of being formed. We welcome anyone interested in joining the community and working together to define the challenges, strategic goals and next steps of the professional practice of developer relations
 
 # The Developer Relations Foundation
 
