@@ -135,6 +135,8 @@ If you have questions that are not answered here, please get in touch via the [D
   </summary><br />
 
   We are forming groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
+</details>
+
 
  <details>
   <summary>
