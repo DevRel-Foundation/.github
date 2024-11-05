@@ -114,6 +114,69 @@ If you have questions that are not answered here, please get in touch via the [D
   
   > (*) The DevRelX Community sunset on October 11, but the free resources they shared with the industry remain available. A massive thank you to their community members.
 </details>
+<details>
+  <summary>
+    <strong>How do I join a Working Group?</strong>
+  </summary><br />
+
+  Please complete [this form](https://forms.gle/5awxqKeKL2sKa6cq5) by November 14, 2024.
+  </details>
+<details>
+  <summary>
+    <strong>When will you notify us that we’re part of a working group?</strong>
+  </summary><br />
+
+  We plan to notify individuals by 14 November 2024, using the email shared in the sign up form. You can anticipate an email from steering-committee@dev-rel.org.
+  </details>
+
+  <details>
+  <summary>
+    <strong>How are you selecting people for Working Groups?</strong>
+  </summary><br />
+
+  We are forming groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
+
+ <details>
+  <summary>
+    <strong>What is the weekly commitment for Working Groups?</strong>
+  </summary><br />
+
+   We anticipate that, between meetings and asynchronous work, that the working group commitment will be an average of 2-4 hours a week. Managers and participants can collectively decide what schedule works best for them as outlined on the expected commitment can be found [here](https://github.com/orgs/DevRel-Foundation/projects/7/views/1?pane=issue&itemId=82204557&issue=DevRel-Foundation%7Cgovernance%7C100).
+
+  Criteria for manager selection can be found [here](https://github.com/DevRel-Foundation/governance/issues/99).
+
+  Criteria for working group members can be found [here](https://github.com/DevRel-Foundation/governance/issues/100). 
+</details>
+
+<details>
+  <summary>
+    <strong>When are the Working Groups expected to complete their proposals?</strong>
+  </summary><br />
+
+  We aim to have groups deliver their initial proposals including their initial charter, goals, deliverables, milestones and meeting cadence by Jan. 2, 2025. Further details can be found at this [link](https://github.com/DevRel-Foundation/governance/issues/107).
+  </details>
+  
+  <details>
+  <summary>
+    <strong>Will the Foundation be officially formed after the Working Groups finish their work?</strong>
+  </summary><br />
+
+  The official formation of the foundation will be based on administrative milestones, including work group and governance progress, to ensure a smooth transition of organizational leadership. Milestones will include: 
+1. Working group managers assigned
+2. Working groups formed with regular calls started
+3. Steering Committee election process determined
+</details>
+
+ <details>
+  <summary>
+    <strong>What guidance can we expect from the Steering Committee?</strong>
+  </summary><br />
+
+  The Steering Committee will provide expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
+</details>
+
+
+
 
 
 ## Resources
