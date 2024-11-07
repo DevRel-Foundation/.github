@@ -140,6 +140,15 @@ If you have questions that are not answered here, please get in touch via the [D
 
  <details>
   <summary>
+    <strong>What is the difference between the manager and the participant role?</strong>
+  </summary><br />
+
+  The manager (or managers) of each working group will set the meeting times/dates, the agendas, facilitate the conversations, and be the contacts with the Founding Steering Committee.
+  The participant (or participants) will play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking on ownership of action items identified in the meetings.
+</details>
+
+ <details>
+  <summary>
     <strong>What is the weekly commitment for Working Groups?</strong>
   </summary><br />
 
