@@ -238,9 +238,18 @@ Additionally, we have a groups.io mailing list where the community can post anno
 
 Developer Relation Foundation also has an official forum under this GitHub Org Repo via GH Discussions. People can read existing issues or create new topics [here](https://github.com/DevRel-Foundation/governance/discussions)
 
-## Make Your Voice Heard
+## Be part of a DevRel Foundation Working Group - Sign up by 13 November 2024
 
-To date, the priority has been to reach and collect representative data from participants in DevRel communities worldwide, ensuring that future decisions are data-driven and reflective of the community’s needs. To make an impact on the formation of this Foundation and join this community, please start by taking this [survey][survey]. You are welcome to share it with your local community peers.
+To date, the community is ready to launch Working Groups, which will collaborate to define and recommend objectives, operations, and goals of the groups, based on the themes identified by the community:
+
+- DevRel structure and organization
+- Professional development, career growth, and support
+- Community engagement and support
+- Resource and asset aggregation
+- Metrics, reporting, and best practices
+- Innovation and emerging trends
+
+We’re seeking both group managers and group participants, with an estimated weekly commitment of 2-4 hours for the next 6 months. FAQs on Working Groups can be found here: https://github.com/DevRel-Foundation#faq
 
 ## License and Intellectual Property
 
