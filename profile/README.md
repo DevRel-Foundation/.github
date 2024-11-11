@@ -195,8 +195,9 @@ If you have questions that are not answered here, please get in touch via the [D
 * [dev-rel.org](https://dev-rel.org): Official website for the Developer Relations Foundation.
 * [Charter][charter]: Official charter document for the Developer Relations Foundation.
 * [Code of Conduct][Code of Conduct]: Standards and guidelines for contributing to the Developer Relations Foundation.
-* [LF Antitrust Policies][LF Antitrust Policies]: policies that participants must adhere to when participating in DRF-related meetings, communication channels, or forums.
-* [Playbook][Playbook]: Operational Guidelines. It includes how community participants can submit new proposals, where and how these proposals are discussed via community calls, and the community calls roles and responsibilities.
+* [Calendar][calendar]: Official Developer Relations Foundation meeting Calendar
+* [LF Antitrust Policies][LF Antitrust Policies]: Policies that participants must adhere to when participating in DRF-related meetings, communication channels, or forums.
+* [Playbook][Playbook]: Hands-on resource for the community. Developer Relations Foundation Operational Guidelines.
 
 ## Get involved
 
@@ -246,6 +247,7 @@ To date, the priority has been to reach and collect representative data from par
 All documentation is made available by the Developer Relations Foundation under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc
+[calendar]:https://lists.dev-rel.org/g/community/calendar
 [discord]: https://discord.gg/ukMnmFjw43
 [contact-form]: https://bit.ly/3RwwhQ1
 [LF blog post]: https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects
