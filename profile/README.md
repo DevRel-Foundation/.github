@@ -119,7 +119,7 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>How do I join a Working Group?</strong>
   </summary><br />
 
-  Submissions for cohort 1 of the working groups were completed on November 14, 2024. Please follow our communication channels for updates on Cohort 2.
+  Submissions for cohort 1 of the working groups were completed on November 14, 2024. Please follow our communication channels for updates on cohort 2.
   </details>
 <details>
   <summary>
