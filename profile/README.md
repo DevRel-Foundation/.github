@@ -48,13 +48,13 @@ If you have questions that are not answered here, please get in touch via the [D
 </details>
 <details>
   <summary>
-    <strong>Does the foundation serve Developer Relations outside "open source"?</strong>
+    <strong>Does DRF Serve Developer Relations Outside <em>Open Source</em>?</strong>
   </summary><br />
   Yes. The foundation operates as an open source community, but Developer Relations Foundation's scope is Developer Relations across various specializations within a company, whether or not they involve open source engagements.
   
   There are peer open source communities, like the TODO Group, whose mission focuses on open source engagement and where open source Developer Relations and open source community managers typically participate. However, the TODO Group’s scope doesn’t cover non-open source aspects of Developer Relations unless they intersect with the open source engagement journey in organizations. This is a gap the DFR community might need to address in the future, collaborating with existing peer communities.
 
-</details>details>
+</details>
 <details>
   <summary>
     <strong>Are Sponsors Involved?</strong>
