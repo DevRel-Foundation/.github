@@ -118,6 +118,9 @@ If you have questions that are not answered here, please get in touch via the [D
   <summary>
     <strong>How do I join a Working Group?</strong>
   </summary><br />
+  In the Working Groups, everyone carries the water and helps out, where every participant’s contribution drives progress. Participation in the working group is open to anyone interested. People can join a working group by signing up for the specific mailing list on dev-rel.org subgroups and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
+
+  > Note: Mailing List are still being formed
 
   Please complete [this form](https://forms.gle/5awxqKeKL2sKa6cq5) by November 14, 2024.
   </details>
@@ -127,6 +130,9 @@ If you have questions that are not answered here, please get in touch via the [D
   </summary><br />
 
   We plan to notify individuals by 14 November 2024, using the email shared in the sign up form. You can anticipate an email from steering-committee@dev-rel.org.
+  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on dev-rel.org subgroups and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
+
+  > Note: Mailing List are still being formed
   </details>
 
   <details>
@@ -134,17 +140,22 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>How are you selecting people for Working Groups?</strong>
   </summary><br />
 
-  We are forming groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
+  We are forming initial groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
+
+  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on dev-rel.org subgroups and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
 </details>
 
 
  <details>
   <summary>
-    <strong>What is the difference between the manager and the participant role?</strong>
+    <strong>What is the difference between the Manager and the Participant role within Working Gorups?</strong>
   </summary><br />
 
-  The manager (or managers) of each working group will set the meeting times/dates, the agendas, facilitate the conversations, and be the contacts with the Founding Steering Committee.
-  The participant (or participants) will play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking on ownership of action items identified in the meetings.
+  The manager (or managers) of each working group at DRF set the meeting times, dates and agendas, facilitate the conversations, and be the point of contact with the Steering Committee.Managers of a working group can assign new managers within the working group if requested by participants actively involved in regular activities.
+  
+  The participant (or participants) play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking on ownership of action items identified in the meetings.
+  
+  In Working Groups, everyone carries the water and helps out. Shared effort creates a culture of collaboration, where every participant’s contribution drives progress. Participation in the working group is open to anyone interested. All communication channels and calls are accessible, and meeting notes are publicly available
 </details>
 
  <details>
