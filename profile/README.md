@@ -150,7 +150,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
   We are forming initial groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
 
-  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on dev-rel.org subgroups and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
+  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on [dev-rel.org subgroups](https://lists.dev-rel.org/g/community/subgroups) and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
 </details>
 
 
