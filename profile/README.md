@@ -159,7 +159,7 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>What is the difference between the Manager and the Participant role within Working Gorups?</strong>
   </summary><br />
 
-  The manager (or managers) of each working group at DRF set the meeting times, dates and agendas, facilitate the conversations, and be the point of contact with the Steering Committee.Managers of a working group can assign new managers within the working group if requested by participants actively involved in regular activities.
+  The Manager (or managers) of each working group at DRF set the meeting times, dates and agendas, facilitate the conversations, and be the point of contact with the Steering Committee. Managers of a working group can assign new Managers within the working group if requested by Participants actively involved in regular activities.
   
   The participant (or participants) play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking on ownership of action items identified in the meetings.
   
