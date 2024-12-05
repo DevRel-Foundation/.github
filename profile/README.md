@@ -119,14 +119,14 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>How do I join a Working Group?</strong>
   </summary><br />
 
-  Please complete [this form](https://forms.gle/5awxqKeKL2sKa6cq5) by November 14, 2024.
+  Submissions for cohort 1 of the working groups were completed on November 14, 2024. Please follow our communication channels for updates on cohort 2.
   </details>
 <details>
   <summary>
     <strong>When will you notify us that we’re part of a working group?</strong>
   </summary><br />
 
-  We plan to notify individuals by 14 November 2024, using the email shared in the sign up form. You can anticipate an email from steering-committee@dev-rel.org.
+  We plan to notify individuals by 6 December 2024, using the email shared in the sign up form. You can anticipate an email from steering-committee@dev-rel.org.
   </details>
 
   <details>
@@ -164,7 +164,7 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>When are the Working Groups expected to complete their proposals?</strong>
   </summary><br />
 
-  We aim to have groups deliver their initial proposals including their initial charter, goals, deliverables, milestones and meeting cadence by Jan. 2, 2025. Further details can be found at this [link](https://github.com/DevRel-Foundation/governance/issues/107).
+  We aim to have groups deliver their initial proposals including their initial charter, goals, deliverables, milestones and meeting cadence by February 3, 2025. Further details can be found at this [link](https://github.com/DevRel-Foundation/governance/issues/104).
   </details>
   
   <details>
