@@ -161,7 +161,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
   The Manager (or managers) of each working group at DRF set the meeting times, dates and agendas, facilitate the conversations, and be the point of contact with the Steering Committee. Managers of a working group can assign new Managers within the working group if requested by Participants actively involved in regular activities.
   
-  The participant (or participants) play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking on ownership of action items identified in the meetings.
+Participants play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking ownership of action items identified in the meetings.
   
   In Working Groups, everyone carries the water and helps out. Shared effort creates a culture of collaboration, where every participant’s contribution drives progress. Participation in the working group is open to anyone interested. All communication channels and calls are accessible, and meeting notes are publicly available
 </details>
