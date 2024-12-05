@@ -138,7 +138,7 @@ If you have questions that are not answered here, please get in touch via the [D
   </summary><br />
 
   We plan to notify individuals by 14 November 2024, using the email shared in the sign up form. You can anticipate an email from steering-committee@dev-rel.org.
-  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on dev-rel.org subgroups and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
+  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on [dev-rel.org subgroups](https://lists.dev-rel.org/g/community/subgroups) and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
 
   > Note: Mailing List are still being formed
   </details>
