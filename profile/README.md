@@ -126,7 +126,7 @@ If you have questions that are not answered here, please get in touch via the [D
   <summary>
     <strong>How do I join a Working Group?</strong>
   </summary><br />
-  In the Working Groups, everyone carries the water and helps out, where every participant’s contribution drives progress. Participation in the working group is open to anyone interested. People can join a working group by signing up for the specific mailing list on dev-rel.org subgroups and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
+  In the Working Groups, everyone carries the water and helps out, where every participant’s contribution drives progress. Participation in the working group is open to anyone interested. People can join a working group by signing up for the specific mailing list on [dev-rel.org subgroups](https://lists.dev-rel.org/g/community/subgroups) and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
 
   > Note: Mailing List are still being formed
 
