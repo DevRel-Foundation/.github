@@ -46,7 +46,15 @@ If you have questions that are not answered here, please get in touch via the [D
   
   We also chose the LF to avoid reinventing the wheel. Creating something new requires tools, infrastructure, and, ideally, a lightweight process to get started and make the initiative resilient.
 </details>
+<details>
+  <summary>
+    <strong>Does DRF Serve Developer Relations Outside <em>Open Source</em>?</strong>
+  </summary><br />
+  Yes. The foundation operates as an open source community, but Developer Relations Foundation's scope is Developer Relations across various specializations within a company, whether or not they involve open source engagements.
+  
+  There are peer open source communities, like the [TODO Group](https://todogroup.org/), whose mission focuses on open source engagement and where open source Developer Relations and open source community managers typically participate. However, the TODO Group’s scope doesn’t cover non-open source aspects of Developer Relations unless they intersect with the open source engagement journey in organizations. This is a gap the DRF community might need to address in the future, collaborating with existing peer communities.
 
+</details>
 <details>
   <summary>
     <strong>Are Sponsors Involved?</strong>
@@ -118,6 +126,9 @@ If you have questions that are not answered here, please get in touch via the [D
   <summary>
     <strong>How do I join a Working Group?</strong>
   </summary><br />
+  In the Working Groups, everyone carries the water and helps out, where every participant’s contribution drives progress. Participation in the working group is open to anyone interested. People can join a working group by signing up for the specific mailing list on [dev-rel.org subgroups](https://lists.dev-rel.org/g/community/subgroups) and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
+
+  > Note: Mailing List are still being formed
 
   Submissions for cohort 1 of the working groups were completed on November 14, 2024. Please follow our communication channels for updates on cohort 2.
   </details>
@@ -127,6 +138,9 @@ If you have questions that are not answered here, please get in touch via the [D
   </summary><br />
 
   We plan to notify individuals by 6 December 2024, using the email shared in the sign up form. You can anticipate an email from steering-committee@dev-rel.org.
+  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on [dev-rel.org subgroups](https://lists.dev-rel.org/g/community/subgroups) and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
+
+  > Note: Mailing List are still being formed
   </details>
 
   <details>
@@ -134,17 +148,22 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>How are you selecting people for Working Groups?</strong>
   </summary><br />
 
-  We are forming groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
+  We are forming initial groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
+
+  Please note that **participation in the working group is open to anyone interested**. Once the initial group is formed, people can still join a working group at any time by signing up for the specific mailing list on [dev-rel.org subgroups](https://lists.dev-rel.org/g/community/subgroups) and participating in their regular calls. Meeting notes are publicly available on the respective working group mailing lists.
 </details>
 
 
  <details>
   <summary>
-    <strong>What is the difference between the manager and the participant role?</strong>
+    <strong>What is the difference between the Manager and the Participant role within Working Gorups?</strong>
   </summary><br />
 
-  The manager (or managers) of each working group will set the meeting times/dates, the agendas, facilitate the conversations, and be the contacts with the Founding Steering Committee.
-  The participant (or participants) will play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking on ownership of action items identified in the meetings.
+  The Manager (or managers) of each working group at DRF set the meeting times, dates and agendas, facilitate the conversations, and be the point of contact with the Steering Committee. Managers of a working group can assign new Managers within the working group if requested by Participants actively involved in regular activities.
+  
+Participants play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking ownership of action items identified in the meetings.
+  
+  In Working Groups, everyone carries the water and helps out. Shared effort creates a culture of collaboration, where every participant’s contribution drives progress. Participation in the working group is open to anyone interested. All communication channels and calls are accessible, and meeting notes are publicly available
 </details>
 
  <details>
