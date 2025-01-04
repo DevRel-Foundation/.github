@@ -235,10 +235,19 @@ We have a Discord channel where the community can ask questions, join regular ca
 
 ### Community Calls
 
-We host community calls every other week. More information is available via Discord:
 
-- [AMER Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1260162136035033128)
-- [APAC & EMEA Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1267559792029991084)
+
+Part of our community calls are being used as Open Office Hours to reach community consensus on the foundation's next phases and address questions and blockers on the DevRel Challenges and Frequently Asked Questions. 
+If you would like to get involved, this is a safe and welcoming space to start!
+
+> Note: Due to the usual December holiday season, DRF has paused these calls. These community calls will be restructured around January or February 2025. Once new meeting series are created, they will appear on everyone's emails
+> (check spam too) for anyone who has joined the `lists.dev-rel.org` community mailing list. People can see the upcoming meetings in our Calendar: https://lists.dev-rel.org/g/community/calendar
+
+ 
+We host community calls every other week:
+- AMER Building DevRel Found Community Call
+- APAC & EMEA Building DevRel Found Community Call
+
 
 ### Mailing List
 Additionally, we have a groups.io mailing list where the community can post announcements, news, and notifications
