@@ -1,11 +1,11 @@
-> [!NOTE]
-> The DevRel Foundation is in the process of being formed. We welcome anyone interested in joining the community and working together to define the challenges, strategic goals and next steps of the professional practice of developer relations
-
 # The Developer Relations Foundation
 
 The Developer Relations Foundation is an open community of practitioners who aim to elevate the professional practice of developer relations. For more information, please read the foundation [charter][charter].
 
 The Developer Relations Foundation is part of the nonprofit Linux Foundation.
+
+![drv_cover](https://github.com/user-attachments/assets/ac638503-6b23-44eb-ac68-e76542be671c)
+
 
 ## FAQ
 
@@ -205,10 +205,24 @@ Participants play an active role in accomplishing the group tasks, including att
   The Steering Committee will provide expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
 </details>
 
+## Governance Playbook
 
+Developer Relations Foundation is a community-driven project, with no funding involved. [This README](https://github.com/DevRel-Foundation/governance) documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
 
-
-
+- ✍️ Terminology
+- 🎯 Introduction to DRF Phased Approach for Continuous Progress
+- 🌳 Community Structure
+  - Steering Committee Structure
+  - Working Group Structure
+      -  📊 Metrics and Reporting Working Group
+      -  🧠 Innovation and Emerging Trends Working Group
+      -  🎓 Career Support Working Group
+      -  🏛️ Structure and Organization Working Group
+      -  📚 Resource Aggregation Working Group
+      -  🙋 Community Engagement Support Working Group 
+- Communication Channels
+- Community Calls and WG Meetings
+- Processes
 ## Resources
 
 * [dev-rel.org](https://dev-rel.org): Official website for the Developer Relations Foundation.
@@ -234,7 +248,6 @@ We have a Discord channel where the community can ask questions, join regular ca
 </p>
 
 ### Community Calls
-
 
 
 Part of our community calls are being used as Open Office Hours to reach community consensus on the foundation's next phases and address questions and blockers on the DevRel Challenges and Frequently Asked Questions. 
@@ -265,19 +278,6 @@ Additionally, we have a groups.io mailing list where the community can post anno
 ### GitHub Discussions
 
 Developer Relation Foundation also has an official forum under this GitHub Org Repo via GH Discussions. People can read existing issues or create new topics [here](https://github.com/DevRel-Foundation/governance/discussions)
-
-## Be part of a DevRel Foundation Working Group - Sign up by 13 November 2024
-
-To date, the community is ready to launch Working Groups, which will collaborate to define and recommend objectives, operations, and goals of the groups, based on the themes identified by the community:
-
-- DevRel structure and organization
-- Professional development, career growth, and support
-- Community engagement and support
-- Resource and asset aggregation
-- Metrics, reporting, and best practices
-- Innovation and emerging trends
-
-We’re seeking both group managers and group participants, with an estimated weekly commitment of 2-4 hours for the next 6 months. FAQs on Working Groups can be found here: https://github.com/DevRel-Foundation#faq
 
 ## License and Intellectual Property
 
