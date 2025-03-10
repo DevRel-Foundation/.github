@@ -202,7 +202,7 @@ Participants play an active role in accomplishing the group tasks, including att
     <strong>What guidance can we expect from the Steering Committee?</strong>
   </summary><br />
 
-  The Steering Committee will provide expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
+  The Steering Committee provides expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
 </details>
 
 ## Governance Playbook
@@ -223,6 +223,7 @@ Developer Relations Foundation is a community-driven project, with no funding in
 - Communication Channels
 - Community Calls and WG Meetings
 - Processes
+  
 ## Resources
 
 * [dev-rel.org](https://dev-rel.org): Official website for the Developer Relations Foundation.
@@ -230,13 +231,13 @@ Developer Relations Foundation is a community-driven project, with no funding in
 * [Code of Conduct][Code of Conduct]: Standards and guidelines for contributing to the Developer Relations Foundation.
 * [Calendar][calendar]: Official Developer Relations Foundation meeting Calendar
 * [LF Antitrust Policies][LF Antitrust Policies]: Policies that participants must adhere to when participating in DRF-related meetings, communication channels, or forums.
-* [Playbook][Playbook]: Hands-on resource for the community. Developer Relations Foundation Operational Guidelines.
+* [Playbook][Playbook]: Hands-on resource for the community. Developer Relations Foundation Operational Guidelines
 
 ## Get involved
 
 ### Discord
 
-We have a Discord channel where the community can ask questions, join regular calls focused on building this initiative together, and learn more about ways to get involved and contribute.
+We have a Discord channel where the community can ask questions, join regular working group calls focused on building this initiative together, and learn more about ways to get involved and contribute.
 
 <p align="center">
   <a href="https://discord.gg/ukMnmFjw43">
@@ -247,23 +248,9 @@ We have a Discord channel where the community can ask questions, join regular ca
   Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>
 </p>
 
-### Community Calls
-
-
-Part of our community calls are being used as Open Office Hours to reach community consensus on the foundation's next phases and address questions and blockers on the DevRel Challenges and Frequently Asked Questions. 
-If you would like to get involved, this is a safe and welcoming space to start!
-
-> Note: Due to the usual December holiday season, DRF has paused these calls. These community calls will be restructured around January or February 2025. Once new meeting series are created, they will appear on everyone's emails
-> (check spam too) for anyone who has joined the `lists.dev-rel.org` community mailing list. People can see the upcoming meetings in our Calendar: https://lists.dev-rel.org/g/community/calendar
-
- 
-We host community calls every other week:
-- AMER Building DevRel Found Community Call
-- APAC & EMEA Building DevRel Found Community Call
-
 
 ### Mailing List
-Additionally, we have a groups.io mailing list where the community can post announcements, news, and notifications
+We have a groups.io mailing list where the community and working groups can post announcements, news, and notifications
 
 
 <p align="center">
@@ -292,4 +279,4 @@ All documentation is made available by the Developer Relations Foundation under 
 [Code of Conduct]: https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md
 [survey]: https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform
 [LF Antitrust Policies]: https://www.linuxfoundation.org/legal/antitrust-policy
-[Playbook]:https://github.com/DevRel-Foundation/governance?tab=readme-ov-file#our-playbook---operational-guidelines
+[Playbook]:https://github.com/DevRel-Foundation/governance?tab=readme-ov-file#developer-relations-foundation-governance-playbook
