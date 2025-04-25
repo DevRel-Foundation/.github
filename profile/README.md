@@ -270,6 +270,25 @@ Developer Relation Foundation also has an official forum under this GitHub Org R
 
 All documentation is made available by the Developer Relations Foundation under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+This means that anyone contributing to or using this documentation—including managers, working groups, and users—must follow the terms of this license. In simple terms:
+
+- You are free to share and adapt the content (copy, redistribute, remix, transform)
+- But **you must give proper credit to the Developer Relations Foundation**
+- You also need to indicate if changes were made
+
+### How to reference if reusing the content as-is (without modifications):
+
+*This documentation includes material from the Developer Relations Foundation, available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).*
+
+### How to reference adapting or modifying the content:
+
+*This documentation is adapted from materials originally created by the Developer Relations Foundation, available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Changes have been made from the original.*
+
+
+
+
+
+
 [charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc
 [calendar]:https://lists.dev-rel.org/g/community/calendar
 [discord]: https://discord.gg/ukMnmFjw43
