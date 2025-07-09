@@ -255,7 +255,7 @@ We’re seeking both group managers and group participants, with an estimated we
 
 All documentation is made available by the Developer Relations Foundation under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc
+[charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter.adoc
 [calendar]:https://lists.dev-rel.org/g/community/calendar
 [discord]: https://discord.gg/ukMnmFjw43
 [contact-form]: https://bit.ly/3RwwhQ1
