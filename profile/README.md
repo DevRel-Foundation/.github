@@ -289,7 +289,7 @@ This means that anyone contributing to or using this documentation—including m
 
 
 
-[charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc
+[charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter.adoc
 [calendar]:https://lists.dev-rel.org/g/community/calendar
 [discord]: https://discord.gg/ukMnmFjw43
 [contact-form]: https://bit.ly/3RwwhQ1
