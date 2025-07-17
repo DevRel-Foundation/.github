@@ -46,107 +46,18 @@ If you have questions that are not answered here, please get in touch via the [D
   
   We also chose the LF to avoid reinventing the wheel. Creating something new requires tools, infrastructure, and, ideally, a lightweight process to get started and make the initiative resilient.
 </details>
-
 <details>
   <summary>
-    <strong>Are Sponsors Involved?</strong>
+    <strong>What is a Steering Committee and Who are the Current Members?</strong>
   </summary><br />
-
- No, there are no sponsors.
- 
- A sponsor organization provides financial support or funding to the initiative. **This collaborative project operates under a non-funded model which means there are no sponsor organizations involved**. Instead, the project is supported by community individuals and supporter organizations, contributing to its success through content, guidance, and expertise. Unlike sponsors, supporters do not make financial commitments.
- 
-</details>
-<details>
-  <summary>
-    <strong>What is a Steering Committee?</strong>
-  </summary><br />
-
-   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version)][charter]. Currently, a group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be fully defined, aim to shape the day-to-day work within the Developer Relations Foundation. Leadership roles inside these initiatives will be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives will be grouped and formed, are yet to be defined by the community.
+   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter][charter]. The current Steering Committee members are [listed here][steering-committee]
 </details>
 <details>
      <summary>
     <strong>What is a Charter?</strong>
   </summary><br />
-  The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation Charter is a living document, allowing the community to propose changes and updates as the project evolves.
+  The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation [Charter][charter] is a living document, allowing the community to propose changes and updates as the project evolves.
 </details>
-<details>
-  <summary>
-    <strong>Who is the current Steering Committee?</strong>
-  </summary><br />
- The current Steering Committee participants are composed of tenured Developer Relations professionals who initiated this “intent to form foundation” built through the LF’s guidance and principles. A new leadership will be established once the charter and mission are in place. This process will be via elections at a future date to be determined.
-
-  While our profession is relatively small, it is big enough that there are many really good people who can do this work. And we hope they want to! We had the initiative and time to do this, and so we feel it’s reasonable for us, just like anyone else, to take the first steps forward on building something
-
-  Our aim has always been to thread the needle on process and progress - we wanted to get enough done that we, as a professional collective, had a base and some scaffolding from which to build, but not too much progress that folks felt we had prematurely made decisions.
-</details>
-
-<details>
-  <summary>
-    <strong>What have you accomplished to date?</strong>
-  </summary><br />
-
-  To date we have accomplished the following:
-
-  - Formed an initial Steering Committee of tenured DevRel professionals with the shared goal of solving critical DevRel problems through the formation of a Foundation
-
-  - Secured support from the Linux Foundation to have the DevRel Foundation hosted by them
-
-  - Drafted a lightweight charter and took a first pass at organizational structure to provide the broader DevRel community with a starting point from which to work
-
-  - Identified tools and lightweight processes get work done: Discord, GitHub, gitvote, and groups.io
-  
-  - Scheduled and facilitated open bi-weekly sessions to listen and learn (alternating APAC/EMEA and AMER)
-</details>
-
-<details>
-  <summary>
-    <strong>How do you relate to other existing initiatives?</strong>
-  </summary><br />
-
-  **This is still _a WIP answer_ and needs further discussion in the community calls and async**
-
-  As we explored how best to address the persistent challenges faced by the practice of DevRel, the first thing we did as an interim steering committee was a survey of the existing communities and organizations, including the Developer Marketing Alliance, DevRelX(*), marketingto.dev, Devrellers and Developer Evangelists (LinkedIn groups), the DevRel Collective, DevRelCon, developerrelations.com, flyless.dev, and DevRel con Ñ.
-
-  We found that these groups in aggregate, provide exceptional breadth and depth of resources, expertise, and community. However, whether through incentives (ex: revenue-focused) or inclusivity (ex: DevMarketing not included) none felt centralizing enough to be the hub for this initiative, which strives to be open and inclusive, as well as more than just a resource repository.
-
-  We also know that we cannot succeed without the support, involvement, and partnership of the ecosystem of DevRel initiatives, which is why we hope that folks will feel inspired to help build a foundation that codifies the definition and best practices of DevRel; that brings together best-in-class frameworks, training, and resources in a single place; and that attracts individuals and organizations through trust, credibility, and collaboration.
-  
-  > (*) The DevRelX Community sunset on October 11, but the free resources they shared with the industry remain available. A massive thank you to their community members.
-</details>
-<details>
-  <summary>
-    <strong>How do I join a Working Group?</strong>
-  </summary><br />
-
-  Submissions for cohort 1 of the working groups were completed on November 14, 2024. Please follow our communication channels for updates on cohort 2.
-  </details>
-<details>
-  <summary>
-    <strong>When will you notify us that we’re part of a working group?</strong>
-  </summary><br />
-
-  We plan to notify individuals by 6 December 2024, using the email shared in the sign up form. You can anticipate an email from steering-committee@dev-rel.org.
-  </details>
-
-  <details>
-  <summary>
-    <strong>How are you selecting people for Working Groups?</strong>
-  </summary><br />
-
-  We are forming groups based on expressed interest, and a willingness to commit to the DevRel Foundation [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md). In addition, there will be additional screening for working group managers for demonstrated program and/or team management experience.
-</details>
-
-
- <details>
-  <summary>
-    <strong>What is the difference between the manager and the participant role?</strong>
-  </summary><br />
-
-  The manager (or managers) of each working group will set the meeting times/dates, the agendas, facilitate the conversations, and be the contacts with the Founding Steering Committee.
-  The participant (or participants) will play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking on ownership of action items identified in the meetings.
-</details>
-
  <details>
   <summary>
     <strong>What is the weekly commitment for Working Groups?</strong>
@@ -158,26 +69,6 @@ If you have questions that are not answered here, please get in touch via the [D
 
   Criteria for working group members can be found [here](https://github.com/DevRel-Foundation/governance/issues/100). 
 </details>
-
-<details>
-  <summary>
-    <strong>When are the Working Groups expected to complete their proposals?</strong>
-  </summary><br />
-
-  We aim to have groups deliver their initial proposals including their initial charter, goals, deliverables, milestones and meeting cadence by February 3, 2025. Further details can be found at this [link](https://github.com/DevRel-Foundation/governance/issues/104).
-  </details>
-  
-  <details>
-  <summary>
-    <strong>Will the Foundation be officially formed after the Working Groups finish their work?</strong>
-  </summary><br />
-
-  The official formation of the foundation will be based on administrative milestones, including work group and governance progress, to ensure a smooth transition of organizational leadership. Milestones will include: 
-1. Working group managers assigned
-2. Working groups formed with regular calls started
-3. Steering Committee election process determined
-</details>
-
  <details>
   <summary>
     <strong>What guidance can we expect from the Steering Committee?</strong>
@@ -186,9 +77,9 @@ If you have questions that are not answered here, please get in touch via the [D
   The Steering Committee will provide expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
 </details>
 
+## Governance Playbook
 
-
-
+The Developer Relations Foundation is a community-driven project, with no funding involved. [This README](https://github.com/DevRel-Foundation/governance) documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
 
 ## Resources
 
@@ -213,13 +104,6 @@ We have a Discord channel where the community can ask questions, join regular ca
 <p align="center">
   Join the <a href="https://discord.gg/ukMnmFjw43">Developer Relations Foundation Discord Server</a>
 </p>
-
-### Community Calls
-
-We host community calls every other week. More information is available via Discord:
-
-- [AMER Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1260162136035033128)
-- [APAC & EMEA Building DevRel Found Community Call](https://discord.com/events/1255563562449899573/1267559792029991084)
 
 ### Mailing List
 Additionally, we have a groups.io mailing list where the community can post announcements, news, and notifications
@@ -262,6 +146,7 @@ All documentation is made available by the Developer Relations Foundation under 
 [LF blog post]: https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects
 [community project]: https://www.linuxfoundation.org/projects/hosting
 [Code of Conduct]: https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md
+[steering-committee]: https://dev-rel.org/about/steering-committee
 [survey]: https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform
 [LF Antitrust Policies]: https://www.linuxfoundation.org/legal/antitrust-policy
 [Playbook]:https://github.com/DevRel-Foundation/governance?tab=readme-ov-file#our-playbook---operational-guidelines
