@@ -48,14 +48,16 @@ If you have questions that are not answered here, please get in touch via the [D
 </details>
 <details>
   <summary>
-    <strong>What is a Steering Committee and Who are the Current Members?</strong>
+    <strong>What is the Steering Committee and Who are the Current Members?</strong>
   </summary><br />
+
    The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter][charter]. The current Steering Committee members are [listed here][steering-committee]
 </details>
 <details>
      <summary>
     <strong>What is a Charter?</strong>
   </summary><br />
+
   The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation [Charter][charter] is a living document, allowing the community to propose changes and updates as the project evolves.
 </details>
  <details>
