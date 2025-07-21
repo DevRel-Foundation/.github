@@ -13,7 +13,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
-    <strong>Why a Foundation?</strong>
+    <strong>Why a foundation?</strong>
   </summary><br />
 
   The major benefit of a foundation is that it promotes participatory governance, preventing any single company from monopolizing a collaborative project. Specifically, a foundation ensures:
@@ -49,7 +49,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
-    <strong>How does the Community Structure of the DevRel Foundation Work?</strong>
+    <strong>How does the community structure of the Developer Relations Foundation work?</strong>
   </summary><br />
   
    The DevRel Foundation operates through two key structures: the Steering Committee, which provides oversight and strategic direction for the Foundation, and the Working Groups, which drive the Foundation's projects. These groups are coordinated by WG managers, and activity direction relies on active community participation (called working group participants). For more details, please see our [governance playbook][Playbook].
@@ -57,7 +57,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
-    <strong>What is the Steering Committee and Who are the Current Members?</strong>
+    <strong>What is the steering committee and who are the current members?</strong>
   </summary><br />
   
    The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter][charter]. The current Steering Committee members are [listed here][steering-committee]
@@ -65,17 +65,17 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
-    <strong>What are Working Groups?</strong>
+    <strong>What are working groups?</strong>
   </summary><br />
   
    Working groups are volunteer-led teams within the Developer Relations Foundation that focus on specific DevRel topics or challenges. They collaborate to create open-source resources, best practices, and frameworks to support the DevRel community. Anyone can join and contribute. 
 
-   You can view current working groups and learn how to get involved [here][working-groups]. 
+   You can view current working groups and learn how to get involved [here][working-groups].
 </details>
 
 <details>
   <summary>
-    <strong>How do I Join the Community, Working Group, or Steering Committee?</strong>
+    <strong>How do I join the community, working groups, or steering committee?</strong>
   </summary><br />
   
    There are numerous ways to get involved in the Developer Relations Foundation. [Join us here][join-us].
@@ -83,7 +83,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
-    <strong>What guidance can we expect from the Steering Committee?</strong>
+    <strong>What guidance can we expect from the steering committee?</strong>
   </summary><br />
 
   The Steering Committee provides expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
@@ -91,7 +91,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
   <summary>
-    <strong>What guidance can we expect from the Working Group Managers?"</strong>
+    <strong>What guidance can we expect from the working group managers?</strong>
   </summary><br />
   
    A Working Group Manager is a leadership position within working groups responsible for keeping the group focused, organized, and moving forward. They help create an environment where all working group participants can share ideas, co-create meaningful outputs, and make an impact in the DevRel ecosystem. If you are interested in becoming a WG manager, please learn more at the DRF [Join us here][join-us] page.
@@ -99,7 +99,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 <details>
      <summary>
-    <strong>What is a Charter?</strong>
+    <strong>What is a charter?</strong>
   </summary><br />
   
   The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation [Charter][charter] is a living document, allowing the community to propose changes and updates as the project evolves.
