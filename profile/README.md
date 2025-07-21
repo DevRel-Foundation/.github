@@ -46,6 +46,15 @@ If you have questions that are not answered here, please get in touch via the [D
   
   We also chose the LF to avoid reinventing the wheel. Creating something new requires tools, infrastructure, and, ideally, a lightweight process to get started and make the initiative resilient.
 </details>
+
+<details>
+  <summary>
+    <strong>How does the Community Structure of the DevRel Foundation Work?</strong>
+  </summary><br />
+  
+   The DevRel Foundation operates through two key structures: the Steering Committee, which provides oversight and strategic direction for the Foundation, and the Working Groups, which drive the Foundation's projects. These groups are coordinated by WG managers, and activity direction relies on active community participation (called working group participants). For more details, please see our [governance playbook][Playbook].
+</details>
+
 <details>
   <summary>
     <strong>What is the Steering Committee and Who are the Current Members?</strong>
@@ -53,14 +62,26 @@ If you have questions that are not answered here, please get in touch via the [D
   
    The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter][charter]. The current Steering Committee members are [listed here][steering-committee]
 </details>
+
 <details>
-     <summary>
-    <strong>What is a Charter?</strong>
+  <summary>
+    <strong>What are Working Groups?</strong>
   </summary><br />
   
-  The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation [Charter][charter] is a living document, allowing the community to propose changes and updates as the project evolves.
+   Working groups are volunteer-led teams within the Developer Relations Foundation that focus on specific DevRel topics or challenges. They collaborate to create open-source resources, best practices, and frameworks to support the DevRel community. Anyone can join and contribute. 
+
+   You can view current working groups and learn how to get involved [here](https://dev-rel.org/about/working-groups). 
 </details>
- <details>
+
+<details>
+  <summary>
+    <strong>How do I Join the Community, Working Group, or Steering Committee?</strong>
+  </summary><br />
+  
+   There are numerous ways to get involved in the Developer Relations Foundation. [Join us here][join-us].
+</details>
+
+<details>
   <summary>
     <strong>What guidance can we expect from the Steering Committee?</strong>
   </summary><br />
@@ -68,9 +89,25 @@ If you have questions that are not answered here, please get in touch via the [D
   The Steering Committee provides expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
 </details>
 
+<details>
+  <summary>
+    <strong>What guidance can we expect from the Working Group Managers?"</strong>
+  </summary><br />
+  
+   A Working Group Manager is a leadership position within working groups responsible for keeping the group focused, organized, and moving forward. They help create an environment where all working group participants can share ideas, co-create meaningful outputs, and make an impact in the DevRel ecosystem. If you are interested in becoming a WG manager, please learn more at the DRF [Join us here][join-us] page.
+</details>
+
+<details>
+     <summary>
+    <strong>What is a Charter?</strong>
+  </summary><br />
+  
+  The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation [Charter][charter] is a living document, allowing the community to propose changes and updates as the project evolves.
+</details>
+
 ## Governance Playbook
 
-Developer Relations Foundation is a community-driven project, with no funding involved. [This README](https://github.com/DevRel-Foundation/governance) documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
+Developer Relations Foundation is a community-driven project, with no funding involved. [This README](https://github.com/DevRel-Foundation/governance/blob/main/README.md) documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
   
 ## Resources
 
@@ -144,6 +181,7 @@ This means that anyone contributing to or using this documentation—including m
 [LF blog post]: https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects
 [community project]: https://www.linuxfoundation.org/projects/hosting
 [Code of Conduct]: https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md
+[join-us]: https://dev-rel.org/join-us
 [steering-committee]: https://dev-rel.org/about/steering-committee
 [survey]: https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform
 [LF Antitrust Policies]: https://www.linuxfoundation.org/legal/antitrust-policy
