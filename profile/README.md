@@ -70,7 +70,7 @@ If you have questions that are not answered here, please get in touch via the [D
   
    Working groups are volunteer-led teams within the Developer Relations Foundation that focus on specific DevRel topics or challenges. They collaborate to create open-source resources, best practices, and frameworks to support the DevRel community. Anyone can join and contribute. 
 
-   You can view current working groups and learn how to get involved [here](https://dev-rel.org/about/working-groups). 
+   You can view current working groups and learn how to get involved [here][working-groups]. 
 </details>
 
 <details>
@@ -178,11 +178,12 @@ This means that anyone contributing to or using this documentation—including m
 [calendar]:https://lists.dev-rel.org/g/community/calendar
 [discord]: https://discord.gg/ukMnmFjw43
 [contact-form]: https://bit.ly/3RwwhQ1
+[LF Antitrust Policies]: https://www.linuxfoundation.org/legal/antitrust-policy
 [LF blog post]: https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects
 [community project]: https://www.linuxfoundation.org/projects/hosting
 [Code of Conduct]: https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md
 [join-us]: https://dev-rel.org/join-us
+[Playbook]:https://github.com/DevRel-Foundation/governance?tab=readme-ov-file#developer-relations-foundation-governance-playbook
 [steering-committee]: https://dev-rel.org/about/steering-committee
 [survey]: https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform
-[LF Antitrust Policies]: https://www.linuxfoundation.org/legal/antitrust-policy
-[Playbook]:https://github.com/DevRel-Foundation/governance?tab=readme-ov-file#developer-relations-foundation-governance-playbook
+[working-groups]:https://dev-rel.org/about/working-groups
