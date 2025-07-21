@@ -70,7 +70,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 ## Governance Playbook
 
-Developer Relations Foundation is a community-driven project, with no funding involved. [This README](https://github.com/DevRel-Foundation/governance) documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
+Developer Relations Foundation is a community-driven project, with no funding involved. [This README](https://github.com/DevRel-Foundation/governance/blob/main/README.md) documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
   
 ## Resources
 
