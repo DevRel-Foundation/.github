@@ -91,8 +91,8 @@ profiles:
     #   exclude_team_maintainers: false
     #
     allowed_voters:
-      teams: [steering-committee]
-
+      teams:
+        - steering-committee
     # Periodic status check
     # 
     # GitVote allows checking the status of a vote in progress manually by
@@ -151,4 +151,4 @@ profiles:
     pass_threshold: 75
     allowed_voters:
       teams:
-        - team1
+        - steering-committee
