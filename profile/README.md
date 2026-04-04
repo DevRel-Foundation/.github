@@ -111,6 +111,9 @@ Developer Relations Foundation is a community-driven project, with no funding in
   
 ## Resources
 
+
+* [Persona Library][persona]: DRF project that collects resources related to the development of personas. A persona represents the type of user that may engage with a product, service, project, or organization. 
+* [Tools Catalog][tools]: DRF project that collects software and tools used by Developer Relations professionals.
 * [dev-rel.org](https://dev-rel.org): Official website for the Developer Relations Foundation.
 * [Charter][charter]: Official charter document for the Developer Relations Foundation.
 * [Code of Conduct][Code of Conduct]: Standards and guidelines for contributing to the Developer Relations Foundation.
@@ -187,3 +190,8 @@ This means that anyone contributing to or using this documentation—including m
 [steering-committee]: https://dev-rel.org/about/steering-committee
 [survey]: https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform
 [working-groups]:https://dev-rel.org/about/working-groups
+[persona]:https://github.com/DevRel-Foundation/persona-library
+[tools]:https://github.com/DevRel-Foundation/tools-catalog
+[events]:https://github.com/DevRel-Foundation/events-directory
+[metrics]:https://github.com/DevRel-Foundation/metrics-index
+[maturity-model]:https://github.com/DevRel-Foundation/devrel-maturity-model
