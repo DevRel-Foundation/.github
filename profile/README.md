@@ -6,6 +6,8 @@ The Developer Relations Foundation is part of the nonprofit Linux Foundation.
 
 ![drv_cover](https://github.com/user-attachments/assets/ac638503-6b23-44eb-ac68-e76542be671c)
 
+> [!IMPORTANT]
+> The DevRel Foundation is moving into its next phase through an open governance transition. The former Steering Committee has completed its service. The immediate priority is to restore regular community participation, identify useful priorities and programs, and create clear paths for contributors to take ownership. Read the [governance transition announcement][transition].
 
 ## FAQ
 
@@ -52,15 +54,15 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>How does the community structure of the Developer Relations Foundation work?</strong>
   </summary><br />
   
-   The DevRel Foundation operates through two key structures: the Steering Committee, which provides oversight and strategic direction for the Foundation, and the Working Groups, which drive the Foundation's projects. These groups are coordinated by WG managers, and activity direction relies on active community participation (called working group participants). For more details, please see our [governance playbook][Playbook].
+   DRF is currently operating through an open community transition supported by Linux Foundation staff. Bi-weekly Community Touchpoints are the primary forum for practitioners to reconnect, propose priorities, organize work, and help shape renewed governance. Establishing the next Steering Committee will be part of this community-led process. For current details, see the [governance playbook][Playbook].
 </details>
 
 <details>
   <summary>
-    <strong>What is the steering committee and who are the current members?</strong>
+    <strong>What is happening with the Steering Committee?</strong>
   </summary><br />
   
-   The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter][charter]. The current Steering Committee members are [listed here][steering-committee]
+   The former Steering Committee recognized that DRF's next phase requires a renewed governance structure and has completed its service. The community transition will build on the work already established while broadening participation and leadership. The process for establishing the next Steering Committee will grow from meaningful community participation. Follow the [transition announcement][transition] and [GitHub Discussions][discussions] for updates.
 </details>
 
 <details>
@@ -68,9 +70,9 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>What are working groups?</strong>
   </summary><br />
   
-   Working groups are volunteer-led teams within the Developer Relations Foundation that focus on specific DevRel topics or challenges. They collaborate to create open-source resources, best practices, and frameworks to support the DevRel community. Anyone can join and contribute. 
+   Working groups are volunteer-led teams that focus on specific DevRel topics or challenges. DRF's original working groups created resources including the [DevRel Maturity Model][maturity-model], [Metrics Index][metrics-index], [Persona Library][persona-library], [Tools Catalog][tools-catalog], and [resource collection][resources-repo]. Some original working groups are no longer active, but their repositories and outputs remain available as an open record.
 
-   You can view current working groups and learn how to get involved [here][working-groups].
+   During the transition, new or continued projects will grow from current community priorities and contributors willing to lead them.
 </details>
 
 <details>
@@ -78,23 +80,25 @@ If you have questions that are not answered here, please get in touch via the [D
     <strong>How do I join the community, working groups, or steering committee?</strong>
   </summary><br />
   
-   There are numerous ways to get involved in the Developer Relations Foundation. [Join us here][join-us].
+   Join a bi-weekly [Community Touchpoint][touchpoints], add a topic to an upcoming agenda, start a proposal in [GitHub Discussions][discussions], or volunteer to moderate, document, organize, and deliver community work. The [community calendar][calendar] lists current meeting dates and times.
 </details>
 
 <details>
   <summary>
-    <strong>What guidance can we expect from the steering committee?</strong>
+    <strong>How are formal decisions documented?</strong>
   </summary><br />
 
-  The Steering Committee provides expectations, timelines, tools, and regular check-ins for group leads. In addition, we’ll be available via the [Discord community](https://discord.com/channels/1255563562449899573/1286611262989533255) for questions as they arise.
+  Community discussion takes place openly through GitHub Discussions, issues, and pull requests. When a proposal requires a formal governance decision, DRF uses [GitVote][gitvote] on the relevant GitHub issue or pull request. The organization-wide defaults are stored in the [DRF GitVote configuration][gitvote-config] and must evolve with the renewed governance model.
 </details>
 
 <details>
   <summary>
-    <strong>What guidance can we expect from the working group managers?</strong>
+    <strong>How are contributions measured?</strong>
   </summary><br />
   
-   A Working Group Manager is a leadership position within working groups responsible for keeping the group focused, organized, and moving forward. They help create an environment where all working group participants can share ideas, co-create meaningful outputs, and make an impact in the DevRel ecosystem. If you are interested in becoming a WG manager, please learn more at the DRF [Join us here][join-us] page.
+   DRF uses [LFX Insights][lfx-insights] to make project activity and participation visible. The [contributors dashboard][contributors-dashboard] includes a configurable leaderboard and community-health views based on recorded activity such as commits, pull requests, issues, and collaborations.
+
+   These counts are a transparency signal, not a complete measure of a person's value or impact. They do not confer governance authority and should be considered alongside leadership, facilitation, review, research, design, community support, and other meaningful work. Contributor aliases may appear separately until they are consolidated in LFX.
 </details>
 
 <details>
@@ -107,7 +111,7 @@ If you have questions that are not answered here, please get in touch via the [D
 
 ## Governance Playbook
 
-Developer Relations Foundation is a community-driven project, with no funding involved. [This README](https://github.com/DevRel-Foundation/governance/blob/main/README.md) documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
+Developer Relations Foundation is a community-driven project, with no funding involved. The [governance playbook][Playbook] documents the current transition, participation paths, work completed to date, Community Touchpoints, proposal and voting processes, contribution transparency, and the status of governance documents. The [Charter][charter] remains the formal governing document while the community develops DRF's renewed governance model.
   
 ## Resources
 
@@ -116,13 +120,18 @@ Developer Relations Foundation is a community-driven project, with no funding in
 * [Code of Conduct][Code of Conduct]: Standards and guidelines for contributing to the Developer Relations Foundation.
 * [Calendar][calendar]: Official Developer Relations Foundation meeting Calendar
 * [LF Antitrust Policies][LF Antitrust Policies]: Policies that participants must adhere to when participating in DRF-related meetings, communication channels, or forums.
-* [Playbook][Playbook]: Hands-on resource for the community. Developer Relations Foundation Operational Guidelines
+* [Playbook][Playbook]: Current Developer Relations Foundation governance and operational guidance.
+* [Governance Transition][transition]: Current context, transition goals, and leadership status.
+* [Brand Identity][brand]: Official logos, visual assets, typography, and website styles.
+* [Voice and Tone][voice-and-tone]: Writing style, naming conventions, inclusive language, and content structure.
+* [Website Contribution Guide][site-contributing]: Publishing, accessibility, review, attribution, and development guidance.
+* [LFX Insights][lfx-insights]: Public project activity and community-health data.
 
 ## Get involved
 
 ### Discord
 
-We have a Discord channel where the community can ask questions, join regular working group calls focused on building this initiative together, and learn more about ways to get involved and contribute.
+We have a Discord server where the community can ask questions, connect with other practitioners, and learn about ways to participate and contribute.
 
 <p align="center">
   <a href="https://discord.gg/ukMnmFjw43">
@@ -134,28 +143,19 @@ We have a Discord channel where the community can ask questions, join regular wo
 </p>
 
 
-### Mailing List
-We have a groups.io mailing list where the community and working groups can post announcements, news, and notifications
+### Community Touchpoints
 
-
-<p align="center">
-  <a href="https://lists.dev-rel.org/g/community">
-    <img src="images/groupsio.png" width="300" alt="Join the Developer Relations Foundation Community Mailing List" />
-  <a>
-</p>
-<p align="center">
-  Join the <a href="https://lists.dev-rel.org/g/community">Developer Relations Foundation Community Mailing List</a>
-</p>
+DRF holds bi-weekly Community Touchpoints as an open space to reconnect, discuss current challenges, propose useful outputs, and organize contributor-led work. See the latest [meeting notes and agendas][touchpoints] and check the [community calendar][calendar] for current dates and times.
 
 ### GitHub Discussions
 
-Developer Relation Foundation also has an official forum under this GitHub Org Repo via GH Discussions. People can read existing issues or create new topics [here](https://github.com/DevRel-Foundation/governance/discussions)
+The Developer Relations Foundation's public forum is hosted in [GitHub Discussions][discussions]. Community members can follow announcements, contribute to meeting agendas, propose ideas, and participate asynchronously.
 
 ## License and Intellectual Property
 
 All documentation is made available by the Developer Relations Foundation under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-This means that anyone contributing to or using this documentation—including managers, working groups, and users—must follow the terms of this license. In simple terms:
+This means that anyone contributing to or using this documentation (including managers, working groups, and users) must follow the terms of this license. In simple terms:
 
 - You are free to share and adapt the content (copy, redistribute, remix, transform)
 - But **you must give proper credit to the Developer Relations Foundation**
@@ -175,15 +175,25 @@ This means that anyone contributing to or using this documentation—including m
 
 
 [charter]: https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter.adoc
-[calendar]:https://lists.dev-rel.org/g/community/calendar
+[calendar]: https://lists.dev-rel.org/g/community/calendar
 [discord]: https://discord.gg/ukMnmFjw43
-[contact-form]: https://bit.ly/3RwwhQ1
 [LF Antitrust Policies]: https://www.linuxfoundation.org/legal/antitrust-policy
 [LF blog post]: https://www.linuxfoundation.org/blog/how-open-source-foundations-protect-the-licensing-integrity-of-open-source-projects
 [community project]: https://www.linuxfoundation.org/projects/hosting
 [Code of Conduct]: https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md
-[join-us]: https://dev-rel.org/join-us
-[Playbook]:https://github.com/DevRel-Foundation/governance?tab=readme-ov-file#developer-relations-foundation-governance-playbook
-[steering-committee]: https://dev-rel.org/about/steering-committee
-[survey]: https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform
-[working-groups]:https://dev-rel.org/about/working-groups
+[Playbook]: https://github.com/DevRel-Foundation/governance/blob/main/README.md
+[transition]: https://github.com/DevRel-Foundation/governance/discussions/165
+[touchpoints]: https://github.com/DevRel-Foundation/governance/discussions/categories/meeting-notes
+[discussions]: https://github.com/DevRel-Foundation/governance/discussions
+[gitvote]: https://github.com/cncf/gitvote
+[gitvote-config]: https://github.com/DevRel-Foundation/.github/blob/main/.gitvote.yml
+[brand]: https://github.com/DevRel-Foundation/drf-brand
+[voice-and-tone]: https://github.com/DevRel-Foundation/site/blob/main/src/routes/brand/voice-and-tone.md
+[site-contributing]: https://github.com/DevRel-Foundation/site/blob/main/CONTRIBUTING.md
+[lfx-insights]: https://insights.linuxfoundation.org/project/devrel-foundation
+[contributors-dashboard]: https://insights.linuxfoundation.org/project/devrel-foundation/contributors
+[maturity-model]: https://github.com/DevRel-Foundation/devrel-maturity-model
+[metrics-index]: https://github.com/DevRel-Foundation/metrics-index
+[persona-library]: https://github.com/DevRel-Foundation/persona-library
+[tools-catalog]: https://github.com/DevRel-Foundation/tools-catalog
+[resources-repo]: https://github.com/DevRel-Foundation/wg-resource-aggregation
